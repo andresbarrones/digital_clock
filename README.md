@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<a href="https://anns.es"> <img src="http://img.anns.es/head-antton_bot.png" alt="anns"> </a>
+<a href="https://anns.es"> <img src="http://img.anns.es/git-head.png" alt="anns"> </a>
 
 <!-- TITLE -->
 # DIGITAL CLOCK [v.0.0.1]
