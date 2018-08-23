@@ -2,7 +2,7 @@
 <a href="https://anns.es"> <img src="http://git.anns.es/img/git-head.png" alt="anns"> </a>
 
 <!-- TITLE -->
-# DIGITAL CLOCK [v.0.0.1]
+# DIGITAL CLOCK [v.1.0.0]
 
 <!-- DESCRIPTION -->
 #### *Digital Clock 24 hours format.*
