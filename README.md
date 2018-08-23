@@ -5,7 +5,7 @@
 # DIGITAL CLOCK [v.0.0.1]
 
 <!-- DESCRIPTION -->
-<!-- #### *Digital Clock* -->
+#### *Digital Clock 24 hours format.*
 
 
 <!-- ABOUT APP -->
