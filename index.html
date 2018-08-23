@@ -1,0 +1,86 @@
+<!--  
+ 
+ ################################################################
+ ##                                                            ##
+ ##                 __ _   _ __    _ __    ___                 ##
+ ##                / _` | | '_ \  | '_ \  / __|                ##
+ ##               | (_| | | | | | | | | | \__ \                ##
+ ##                \__,_| |_| |_| |_| |_| |___/                ##
+ ##                                                            ##
+ ##                                                            ##
+ ################################################################
+ ##                                                            ##
+ ##    Code by andresbarrones · Visit me on https://anns.es    ##
+ ##                                                            ##
+ ################################################################
+   
+-->
+
+
+<!DOCTYPE html>
+
+	<html lang="es">
+
+		<head>
+
+			<!-- Web Title -->
+				<title> anns · Digital Clock </title>
+
+			<!-- Web Icon -->
+				<link rel="shortcut icon" type="image/x-icon" href="library/img/favicon.ico">
+
+			<!-- Author -->
+				<meta name="author" content="andresbarrones">
+
+			<!-- Description -->
+				<meta name="description" content="Digital Clock 24h format">
+
+			<!-- Character Set -->
+				<meta charset="utf-8">
+
+			<!-- References (CSS, JAVASCRIPT ...) -->
+				<link rel="stylesheet" href="library/styles/anns-styles.css">
+				<script src="library/javascript/clock.js"></script>
+
+		</head>
+
+		<body onload="setInterval('updateClock()', 100);">
+
+			<!-- Clock -->
+		
+				<div class="clock">
+
+					<!-- Hours -->
+						<div class="numbers">
+							<p class="hours"></p>
+							<p class="placeholder">88</p>
+						</div>
+
+					<div class="colon">
+						<p>:</p>
+					</div>
+
+					<!-- Minutes -->
+						<div class="numbers">
+							<p class="minutes"></p>
+							<p class="placeholder">88</p>
+						</div>
+
+					<div class="colon">
+						<p>:</p>
+					</div>
+
+					<!-- Seconds -->
+						<div class="numbers">
+							<p class="seconds"></p>
+							<p class="placeholder">88</p>
+						</div>
+
+				</div>
+
+			<!-- Javascript Reference -->
+				<script src="library/javascript/clock.js"></script>
+
+		</body>
+
+	</html>
