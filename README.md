@@ -11,7 +11,7 @@
 <!-- ABOUT APP -->
 ## Screenshot
 <img src="https://anns.es/code/digital_clock/library/img/screenshot.png" alt="screenshot">
-[screenshot](https://anns.es/code/digital_clock/library/img/screenshot.png)
+![screenshot](https://anns.es/code/digital_clock/library/img/screenshot.png)
 
 
 <!-- INSTALLATION -->
