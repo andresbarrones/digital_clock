@@ -9,7 +9,8 @@
 
 
 <!-- ABOUT APP -->
-**SCREENSHOT** <img src="http://img.anns.es/digital_clock/library/img/screenshot.png" alt="screenshot">
+**SCREENSHOT**
+<img src="http://anns.es/code/digital_clock/library/img/screenshot.png" alt="screenshot">
 
 
 <!-- INSTALLATION -->
