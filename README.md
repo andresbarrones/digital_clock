@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<a href="https://anns.es"> <img src="http://img.anns.es/git/antton_bot/head-antton_bot.png" alt="anns"> </a>
+<a href="https://anns.es"> <img src="http://img.anns.es/head-antton_bot.png" alt="anns"> </a>
 
 <!-- TITLE -->
 # DIGITAL CLOCK [v.0.0.1]
@@ -35,4 +35,4 @@ Released under the [GNU GPL v3](LICENSE).
 
 
 <!-- FOOTER -->
-<a href="https://anns.es"> <img src="http://img.anns.es/git/antton_bot/git-footer.png" alt="anns"> </a>
+<a href="https://anns.es"> <img src="http://img.anns.es/git-footer.png" alt="footer"> </a>
