@@ -2,14 +2,14 @@
 <a href="https://anns.es"> <img src="http://img.anns.es/git/antton_bot/head-antton_bot.png" alt="anns"> </a>
 
 <!-- TITLE -->
-# TITLE [v.0.0.1]
+# DIGITAL CLOCK [v.0.0.1]
 
 <!-- DESCRIPTION -->
-#### *DESCRIPTION*
+<!-- #### *Digital Clock* -->
 
 
 <!-- ABOUT APP -->
-**SCREENSHOT** <img src="http://img.anns.es/git/antton_bot/head-antton_bot.png" alt="anns">
+**SCREENSHOT** <img src="http://img.anns.es/digital_clock/library/img/screenshot.png" alt="screenshot">
 
 
 <!-- INSTALLATION -->
