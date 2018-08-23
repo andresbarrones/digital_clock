@@ -22,7 +22,7 @@ To install only do you need move files to your web space.
 <!-- DOWNLOAD -->
 ## Download
 
-Direct GitHub download in this [LINK](LICENSE).
+Direct GitHub download in this [LINK](https://github.com/andresbarrones/digital_clock/archive/master.zip).
 
 
 <!-- LICENCE -->
@@ -34,6 +34,8 @@ Released under the [GNU GPL v3](LICENSE).
 <!-- OTHER INFO -->
 ## Other Info
 
+**DEMO** → <a href="http://git.anns.es/digital_clock/"> http://git.anns.es/digital_clock/ </a>
+<br>
 This code is written in Spanish and automatically translated by google translate so that the translations of the messages may contain errors, if you see any wrongdoing, do not hesitate to contact us and we will fix it as soon as possible.
 
 You can find more about me on my website → <a href="https://anns.es">https://anns.es</a>
