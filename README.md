@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<a href="https://anns.es"> <img src="http://img.anns.es/git-head.png" alt="anns"> </a>
+<a href="https://anns.es"> <img src="http://git.anns.es/img/git-head.png" alt="anns"> </a>
 
 <!-- TITLE -->
 # DIGITAL CLOCK [v.0.0.1]
@@ -10,7 +10,7 @@
 
 <!-- ABOUT APP -->
 ## Screenshot
-<img src="https://anns.es/code/digital_clock/library/img/screenshot.png" alt="screenshot">
+<img src="http://git.anns.es/digital_clock/library/img/screenshot.png" alt="screenshot">
 
 
 <!-- INSTALLATION -->
@@ -35,4 +35,4 @@ Released under the [GNU GPL v3](LICENSE).
 
 
 <!-- FOOTER -->
-<a href="https://anns.es"> <img src="http://img.anns.es/git-footer.png" alt="footer"> </a>
+<a href="https://anns.es"> <img src="http://git.anns.es/img/git-footer.png" alt="footer"> </a>
