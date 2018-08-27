@@ -38,7 +38,7 @@ Released under the [GNU GPL v3](LICENSE).
 <br>
 This code is written in Spanish and automatically translated by google translate so that the translations of the messages may contain errors, if you see any wrongdoing, do not hesitate to contact us and we will fix it as soon as possible.
 
-You can find more about me on my website → <a href="https://anns.es" target="_blank>https://anns.es</a>
+You can find more about me on my website → <a href="https://anns.es">https://anns.es</a>
 
 
 
