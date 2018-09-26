@@ -10,7 +10,7 @@
 
 <!-- Screenshot -->
 ## Screenshot
-<img src="http://git.anns.es/digital_clock/library/img/screenshot.png" alt="screenshot" width="516px">
+<img src="http://code.anns.es/digital_clock/library/img/screenshot.png" alt="screenshot" width="516px">
 
 
 <!-- INSTALLATION -->
