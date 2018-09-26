@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<a href="https://anns.es"> <img src="http://git.anns.es/img/git-head.png" alt="anns"> </a>
+<a href="https://anns.es"> <img src="http://img.anns.es/git-head.png" alt="anns"> </a>
 
 <!-- TITLE -->
 # Digital Clock [v.1.0.0]
@@ -43,4 +43,4 @@ You can find more about me on my website → <a href="https://anns.es">https://a
 
 
 <!-- FOOTER -->
-<a href="https://anns.es"> <img src="http://git.anns.es/img/git-footer.png" alt="footer"> </a>
+<a href="https://anns.es"> <img src="http://img.anns.es/git-footer.png" alt="footer"> </a>
